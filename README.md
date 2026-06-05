@@ -1,12 +1,11 @@
 <div align="center">
-<img src="./images/readme-background-clear.png" height="100" alt="" />
+<img src="./images/text.png" height="100" alt="" />
 </div>
 
 ## about me
 
 <img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; mexican-american from rancho cucamonga, california<br />
 <img src="./images/mouse.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ cal poly pomona<br />
-<img src="./images/camera.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech/lifestyle/fashion content creator
 
 ## kudos
 

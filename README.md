@@ -4,7 +4,7 @@
 
 ## about me
 
-<img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; mexican-american from rancho cucamonga, california<br />
+<img src="./images/cactus.svg" height="20" style="vertical-align: middle;" /> &nbsp; rancho cucamonga, california<br />
 <img src="./images/mouse.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science @ cal poly pomona<br />
 
 ## kudos
